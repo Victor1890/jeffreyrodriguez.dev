@@ -29,7 +29,7 @@ export default defineNuxtConfig({
     langDir: "i18n/locales",
     detectBrowserLanguage: {
       useCookie: true,
-      cookieKey: "victor_lang",
+      cookieKey: "jeffrey_lang",
       redirectOn: "root",
       alwaysRedirect: true,
     },
@@ -55,7 +55,7 @@ export default defineNuxtConfig({
     pageTransition: { name: "page", mode: "out-in" },
     layoutTransition: { name: "layout", mode: "out-in" },
     head: {
-      title: "Victor Rosario",
+      title: "Jeffrey Rodríguez",
       htmlAttrs: { lang: "en" },
       bodyAttrs: { class: "antialiased" },
       meta: [
@@ -64,13 +64,13 @@ export default defineNuxtConfig({
         { name: "viewport", content: "width=device-width, initial-scale=1" },
         // { name: "keywords", content: "" },
         { name: "format-detection", content: "telephone=no" },
-        // { name: "description", content: "Hi, I'm Victor Rosario, Senior Software Engineer in Dominican Republic." },
+        // { name: "description", content: "Hi, I'm Jeffrey Rodríguez, Visual Communicator Senior: branding, web design, front-end development and photography." },
 
         // // Open Graph / Facebook
         // { property: "og:type", content: "website" },
-        // { property: "og:url", content: "https://www.victorrosario.dev" },
-        // { property: "og:title", content: "Victor Rosario" },
-        // { property: "og:description", content: "Hi, I'm Victor Rosario, Senior Software Engineer in Dominican Republic." },
+        // { property: "og:url", content: "https://www.jeffreyrodriguez.dev" },
+        // { property: "og:title", content: "Jeffrey Rodríguez" },
+        // { property: "og:description", content: "Hi, I'm Jeffrey Rodríguez, Visual Communicator Senior: branding, web design, front-end development and photography." },
         // { property: "og:image", content: "/images/logo.png" },
       ],
       link: [
@@ -86,7 +86,7 @@ export default defineNuxtConfig({
         //   defer: true,
         //   src: "https://plausible.io/js/plausible.js",
         //   type: "text/partytown",
-        //             "data-domain": "https://www.victorrosario.dev",
+        //             "data-domain": "https://www.jeffreyrodriguez.dev",
         // },
       ],
     },
@@ -94,7 +94,7 @@ export default defineNuxtConfig({
 
   image: {
     format: ["webp"],
-    // domains: isDev ? ["localhost"] : ["victorrosario.dev"],
+    // domains: isDev ? ["localhost"] : ["jeffreyrodriguez.dev"],
   },
 
   css: ["~/assets/styles/tailwind.css", "~/assets/styles/main.css"],

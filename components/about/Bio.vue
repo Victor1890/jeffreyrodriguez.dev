@@ -4,7 +4,6 @@ const { data: socialLinks } = await useAsyncData("about_social_links", () => {
 });
 
 const hoverColor: Record<string, string> = {
-  GitHub: "hover:bg-yellow hover:text-ink-text",
   LinkedIn: "hover:bg-cyan hover:text-ink-text",
 };
 </script>
@@ -32,7 +31,7 @@ const hoverColor: Record<string, string> = {
       </div>
 
       <div class="relative flex items-stretch bg-surface min-h-[360px]">
-        <NuxtImg src="/images/portrait.jpg" alt="Victor Rosario" width="480" height="522" class="w-full object-cover grayscale contrast-[1.05]" />
+        <NuxtImg src="/images/portrait.jpg" alt="Jeffrey Rodríguez" width="480" height="522" class="w-full object-cover" />
         <div class="absolute left-0 bottom-0 font-mono font-bold text-xs text-ink-text bg-yellow px-3.5 py-2 border-t-2 border-r-2 border-ink">
           {{ $t("about.location") }}
         </div>

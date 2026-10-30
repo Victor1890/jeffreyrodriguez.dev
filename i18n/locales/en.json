@@ -8,16 +8,16 @@
   },
   "hero": {
     "available": "Available for work",
-    "eyebrow": "Software Engineer",
-    "tagline": "Turning your vision into reality with code and design.",
-    "ctaWork": "View work",
+    "eyebrow": "Visual Communicator Senior",
+    "tagline": "Branding, web design, front-end and photography with a visual eye.",
+    "ctaWork": "About me",
     "ctaCV": "Download CV",
-    "label": "// engineering + design"
+    "label": "// design + front-end"
   },
   "stats": {
     "experience": "Years experience",
-    "clients": "Satisfied clients",
-    "projects": "Projects shipped"
+    "clients": "Roles",
+    "projects": "Disciplines"
   },
   "featured": {
     "label": "Selected work",
@@ -27,9 +27,9 @@
   "about": {
     "label": "// biography",
     "title": "About me",
-    "bio1": "Hi, I'm Victor Rosario, a Senior Software Engineer with 6+ years of professional experience building scalable, production-grade web applications using JavaScript/TypeScript, React, Node.js, and PostgreSQL.",
-    "bio2": "I integrate AI-powered features using LLM APIs (OpenAI, Claude), enabling automation of user workflows and improving data processing speed by ~50%. I've contributed to high-traffic platforms like gob.do and internal systems supporting thousands of concurrent users.",
-    "bio3": "I focus on clean architecture, system reliability, performance optimization, and test-driven development. I'm comfortable making pragmatic technical decisions, mentoring teammates, and delivering high-impact solutions.",
+    "bio1": "Hi, I'm Jeffrey Rodríguez, a Visual Communicator Senior with 20+ years of experience across advertising, graphic and web design, front-end development and photography.",
+    "bio2": "I've worked as senior visual designer, art director, interactive designer and front-end developer, from newspapers and magazines to animated HTML5 ads, email design and social media content.",
+    "bio3": "I want to keep growing personally and professionally, apply everything I've learned, and be an important part of the teams I join. I speak Spanish, English and intermediate French.",
     "location": "Dominican Republic",
     "experienceTitle": "Experience",
     "educationTitle": "Education",

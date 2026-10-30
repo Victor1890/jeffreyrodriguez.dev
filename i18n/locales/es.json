@@ -8,16 +8,16 @@
   },
   "hero": {
     "available": "Disponible para proyectos",
-    "eyebrow": "Ingeniero de Software",
-    "tagline": "Convierto tu visión en realidad con código y diseño.",
-    "ctaWork": "Ver proyectos",
+    "eyebrow": "Comunicador Visual Senior",
+    "tagline": "Branding, diseño web, front-end y fotografía con ojo visual.",
+    "ctaWork": "Sobre mí",
     "ctaCV": "Descargar CV",
-    "label": "// ingeniería + diseño"
+    "label": "// diseño + front-end"
   },
   "stats": {
     "experience": "Años de experiencia",
-    "clients": "Clientes satisfechos",
-    "projects": "Proyectos entregados"
+    "clients": "Roles",
+    "projects": "Disciplinas"
   },
   "featured": {
     "label": "Trabajo seleccionado",
@@ -27,9 +27,9 @@
   "about": {
     "label": "// biografía",
     "title": "Sobre mí",
-    "bio1": "Hola, soy Victor Rosario, Ingeniero de Software Senior con más de 6 años de experiencia profesional construyendo aplicaciones web escalables y de producción usando JavaScript/TypeScript, React, Node.js y PostgreSQL.",
-    "bio2": "Integro funcionalidades potenciadas por IA usando APIs de LLM (OpenAI, Claude), permitiendo la automatización de flujos de trabajo y mejorando la velocidad de procesamiento de datos en ~50%. He contribuido a plataformas de alto tráfico como gob.do y sistemas internos que soportan miles de usuarios concurrentes.",
-    "bio3": "Me enfoco en arquitectura limpia, confiabilidad del sistema, optimización de rendimiento y desarrollo orientado a pruebas. Estoy cómodo tomando decisiones técnicas pragmáticas, mentorizando a compañeros de equipo y entregando soluciones de alto impacto.",
+    "bio1": "Hola, soy Jeffrey Rodríguez, Comunicador Visual Senior con más de 20 años de experiencia en publicidad, diseño gráfico y web, desarrollo front-end y fotografía.",
+    "bio2": "He trabajado como diseñador visual senior, director de arte, diseñador interactivo y desarrollador front-end, desde periódicos y revistas hasta anuncios animados en HTML5, diseño de email y contenido para redes sociales.",
+    "bio3": "Quiero seguir creciendo personal y profesionalmente, aplicar todo lo que he aprendido y ser una parte importante de los equipos a los que me uno. Hablo español, inglés y francés intermedio.",
     "location": "República Dominicana",
     "experienceTitle": "Experiencia",
     "educationTitle": "Educación",

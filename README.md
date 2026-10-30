@@ -1,6 +1,6 @@
-# victorrosario.dev
+# jeffreyrodriguez.dev
 
-Senior Software Engineer portfolio built with Nuxt.js.
+Visual Communicator portfolio built with Nuxt.js.
 
 ## Tech Stack
 
@@ -15,8 +15,6 @@ Senior Software Engineer portfolio built with Nuxt.js.
 ## Features
 
 - Responsive portfolio with dark theme
-- Blog (9 posts — Node.js, React, ORMs, performance)
-- Projects showcase (9 projects)
 - About section with experience & education
 - Contact form
 - SEO optimized with Open Graph
@@ -66,12 +64,7 @@ See [Nuxt deployment docs](https://nuxt.com/docs/getting-started/deployment).
 
 ## Author
 
-**Victor Rosario** — Senior Software Engineer
+**Jeffrey Rodríguez** — Visual Communicator Senior
 
-- Website: [victorrosario.dev](https://www.victorrosario.dev)
-- GitHub: [Victor1890](https://github.com/Victor1890)
-- LinkedIn: [victor-j-rosario-v](https://www.linkedin.com/in/victor-rosario-dev)
-
-## License
-
-MIT
+- Website: [jeffreyrodriguez.dev](https://www.jeffreyrodriguez.dev)
+- LinkedIn: [Jeffrey Rodríguez](https://www.linkedin.com/in/jeffrey-rodr%C3%ADguez-56622463)

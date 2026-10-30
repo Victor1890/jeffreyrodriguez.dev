@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const items = ["React", "Node.js", "PostgreSQL", "TypeScript", "AI/LLM", "6+ Years"];
+const items = ["Photoshop", "Lightroom", "Illustrator", "InDesign", "Flash", "Dreamweaver", "HTML5", "CSS3", "Bootstrap", "AngularJS", "JavaScript", "WordPress", "PHP"];
 </script>
 
 <template>

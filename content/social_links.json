@@ -1,16 +1,10 @@
 {
   "links": [
     {
-      "id": 2,
-      "name": "GitHub",
-      "icon": "i-fa-github",
-      "url": "https://github.com/Victor1890"
-    },
-    {
-      "id": 3,
+      "id": 1,
       "name": "LinkedIn",
       "icon": "i-fa-linkedin",
-      "url": "https://www.linkedin.com/in/victor-rosario-dev"
+      "url": "https://www.linkedin.com/in/jeffrey-rodr%C3%ADguez-56622463"
     }
   ]
 }

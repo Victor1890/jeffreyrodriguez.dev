@@ -1,15 +1,5 @@
 <script setup lang="ts">
-const techs = [
-  "React",
-  "Python",
-  "Next.js",
-  "Node",
-  "TypeScript",
-  "PostgreSQL",
-  "LLMs",
-  "Tailwind",
-  "Docker",
-];
+const techs = ["Photoshop", "Illustrator", "InDesign", "Lightroom", "HTML5", "CSS3", "JavaScript", "WordPress"];
 </script>
 
 <template>
@@ -23,7 +13,7 @@ const techs = [
           {{ $t("hero.available") }}
         </div>
 
-        <h1 class="hero-enter m-0 font-display font-black uppercase text-slate-50 leading-[0.9] tracking-[-0.02em] text-[clamp(3.25rem,7vw,5.25rem)]" style="--i: 1">Victor<br /><span class="text-cyan">Rosario</span></h1>
+        <h1 class="hero-enter m-0 font-display font-black uppercase text-slate-50 leading-[0.9] tracking-[-0.02em] text-[clamp(3.25rem,7vw,5.25rem)]" style="--i: 1">Jeffrey<br /><span class="text-cyan">Rodríguez</span></h1>
 
         <p class="hero-enter mt-5 font-mono text-[15px] leading-relaxed text-yellow max-w-[40ch]" style="--i: 2"><span class="text-dim">const role = </span>"{{ $t("hero.eyebrow") }}"</p>
 
@@ -34,10 +24,10 @@ const techs = [
         <!-- Split CTA -->
         <div class="hero-enter mt-9" style="--i: 4">
           <div class="group inline-flex w-max border-2 border-ink shadow-[6px_6px_0_#f43f5e] transition-all hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-[9px_9px_0_#f43f5e] active:translate-x-0 active:translate-y-0 active:shadow-[4px_4px_0_#f43f5e]">
-            <NuxtLink to="/projects" class="font-display font-extrabold uppercase text-[15px] bg-indigo text-white px-[26px] py-[15px] border-r-2 border-ink">
+            <NuxtLink to="/about" class="font-display font-extrabold uppercase text-[15px] bg-indigo text-white px-[26px] py-[15px] border-r-2 border-ink">
               {{ $t("hero.ctaWork") }}
             </NuxtLink>
-            <a href="/Victor-Rosario-CV.pdf" download class="font-display font-extrabold uppercase text-[15px] bg-primary-dark text-primary-light px-[26px] py-[15px]">
+            <a href="/Jeffrey-Rodriguez-CV.pdf" download class="font-display font-extrabold uppercase text-[15px] bg-primary-dark text-primary-light px-[26px] py-[15px]">
               {{ $t("hero.ctaCV") }}
             </a>
           </div>
@@ -53,7 +43,7 @@ const techs = [
 
       <!-- Right -->
       <div class="hero-enter relative flex items-stretch bg-surface min-h-[420px]" style="--i: 2">
-        <NuxtImg src="/images/portrait.jpg" alt="Victor Rosario" width="575" height="522" class="w-full object-cover grayscale contrast-[1.05]" />
+        <NuxtImg src="/images/portrait.jpg" alt="Jeffrey Rodríguez" width="575" height="522" class="w-full object-cover" />
         <div class="absolute left-0 bottom-0 font-mono font-bold text-xs text-ink-text bg-cyan px-3.5 py-2 border-t-2 border-r-2 border-ink">
           {{ $t("hero.label") }}
         </div>
