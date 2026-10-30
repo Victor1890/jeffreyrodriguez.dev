@@ -1,0 +1,10 @@
+<template>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="JR">
+    <rect x="28" y="28" width="220" height="220" fill="rgb(var(--c-yellow))" stroke="rgb(var(--c-ink))" stroke-width="8" />
+    <rect x="8" y="8" width="220" height="220" fill="rgb(var(--c-cyan))" stroke="rgb(var(--c-ink))" stroke-width="8" />
+    <g fill="none" stroke="rgb(var(--c-ink))" stroke-width="22" stroke-linejoin="miter">
+      <path transform="translate(-12)" d="M104 52V150Q104 188 70 188Q46 188 40 164" />
+      <path transform="translate(-2)" d="M138 188V52M138 52H174Q204 52 204 84Q204 116 174 116H138M170 116L206 188" />
+    </g>
+  </svg>
+</template>

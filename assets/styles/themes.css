@@ -1,0 +1,19 @@
+/* Site palette. Channels are space-separated RGB so Tailwind can apply opacity.
+   Token names are kept from the original palette: cyan = accent 1, yellow = accent 2,
+   indigo = accent 3, mint = accent 4. */
+:root {
+  --c-primary-dark: 27 16 51;
+  --c-secondary-dark: 38 24 71;
+  --c-ternary-dark: 59 39 102;
+  --c-surface: 38 24 71;
+  --c-footer-dark: 21 12 40;
+  --c-grid: 59 39 102;
+  --c-ink: 12 6 24;
+  --c-ink-text: 20 8 36;
+  --c-cyan: 255 79 139;
+  --c-yellow: 255 183 3;
+  --c-indigo: 139 92 246;
+  --c-mint: 255 209 102;
+  --c-muted: 184 169 217;
+  --c-dim: 125 111 168;
+}

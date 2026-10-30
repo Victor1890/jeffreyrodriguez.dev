@@ -37,17 +37,17 @@ const roleCount = computed(() => String(jobExperiences?.length || 0).padStart(2,
 
 <style scoped>
 .exp-card {
-  box-shadow: 6px 6px 0 #123049;
+  box-shadow: 6px 6px 0 rgb(var(--c-grid));
   transition:
     transform 0.15s cubic-bezier(0.16, 1, 0.3, 1),
     box-shadow 0.15s cubic-bezier(0.16, 1, 0.3, 1);
 }
 .exp-card:hover {
   transform: translate(-2px, -2px);
-  box-shadow: 8px 8px 0 #f43f5e;
+  box-shadow: 8px 8px 0 rgb(var(--c-cyan));
 }
 .exp-card:active {
   transform: translate(0, 0);
-  box-shadow: 5px 5px 0 #f43f5e;
+  box-shadow: 5px 5px 0 rgb(var(--c-cyan));
 }
 </style>

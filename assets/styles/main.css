@@ -1,5 +1,5 @@
 html {
-  background-color: #0d2438;
+  background-color: rgb(var(--c-primary-dark));
 }
 
 body {
@@ -8,8 +8,8 @@ body {
 }
 
 ::selection {
-  background: #f97316;
-  color: #0b1622;
+  background: rgb(var(--c-yellow));
+  color: rgb(var(--c-ink-text));
 }
 
 a {
@@ -18,12 +18,12 @@ a {
 
 input::placeholder,
 textarea::placeholder {
-  color: #5c7386;
+  color: rgb(var(--c-dim));
 }
 
 /* Reusable neo-brutalist grid overlay */
 .grid-overlay {
-  background-image: linear-gradient(#123049 1px, transparent 1px), linear-gradient(90deg, #123049 1px, transparent 1px);
+  background-image: linear-gradient(rgb(var(--c-grid)) 1px, transparent 1px), linear-gradient(90deg, rgb(var(--c-grid)) 1px, transparent 1px);
   background-size: 44px 44px;
   opacity: 0.45;
   pointer-events: none;
@@ -38,7 +38,7 @@ textarea::placeholder {
 
 /* Keyboard focus ring, neo-brutalist (mouse clicks stay clean via :focus-visible) */
 :focus-visible {
-  outline: 3px solid #f97316;
+  outline: 3px solid rgb(var(--c-yellow));
   outline-offset: 2px;
 }
 

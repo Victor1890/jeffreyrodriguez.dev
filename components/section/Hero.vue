@@ -23,7 +23,7 @@ const techs = ["Photoshop", "Illustrator", "InDesign", "Lightroom", "HTML5", "CS
 
         <!-- Split CTA -->
         <div class="hero-enter mt-9" style="--i: 4">
-          <div class="group inline-flex w-max border-2 border-ink shadow-[6px_6px_0_#f43f5e] transition-all hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-[9px_9px_0_#f43f5e] active:translate-x-0 active:translate-y-0 active:shadow-[4px_4px_0_#f43f5e]">
+          <div class="group inline-flex w-max border-2 border-ink shadow-[6px_6px_0_rgb(var(--c-cyan))] transition-all hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-[9px_9px_0_rgb(var(--c-cyan))] active:translate-x-0 active:translate-y-0 active:shadow-[4px_4px_0_rgb(var(--c-cyan))]">
             <NuxtLink to="/about" class="font-display font-extrabold uppercase text-[15px] bg-indigo text-white px-[26px] py-[15px] border-r-2 border-ink">
               {{ $t("hero.ctaWork") }}
             </NuxtLink>

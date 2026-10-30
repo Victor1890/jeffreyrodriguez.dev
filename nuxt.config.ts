@@ -97,7 +97,7 @@ export default defineNuxtConfig({
     // domains: isDev ? ["localhost"] : ["jeffreyrodriguez.dev"],
   },
 
-  css: ["~/assets/styles/tailwind.css", "~/assets/styles/main.css"],
+  css: ["~/assets/styles/themes.css", "~/assets/styles/tailwind.css", "~/assets/styles/main.css"],
   components: true,
 
   googleFonts: {

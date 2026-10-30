@@ -18,7 +18,7 @@ const props = withDefaults(
   {
     to: undefined,
     fallback: "/images/projects/placeholder.svg",
-    accent: "#f43f5e",
+    accent: "rgb(var(--c-cyan))",
     categoryChip: "",
     subtitleClass: "text-muted",
     imgClass: "h-[180px]",

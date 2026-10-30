@@ -1,5 +1,5 @@
 // Rotating accent colors for the neo-brutalist project cards
-export const PROJECT_ACCENTS = ["#f43f5e", "#a855f7", "#f97316"];
+export const PROJECT_ACCENTS = ["rgb(var(--c-cyan))", "rgb(var(--c-indigo))", "rgb(var(--c-yellow))"];
 
 export interface ProjectLike {
   title: string;
